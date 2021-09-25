@@ -12,9 +12,9 @@ const Hero = () => (
         My Personal Portfolio
      </SectionTitle>
      <SectionText>
-       (Description)
+     Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. 
      </SectionText>
-     <Button onClick={() => window.location = "https://google.com"} >Learn More</Button>
+     <Button onClick={() => window.location = "https://www.linkedin.com/in/katana-yaa-143949129/"} >Learn More</Button>
    </LeftSection>
  </Section>
 );

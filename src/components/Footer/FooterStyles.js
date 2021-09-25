@@ -56,7 +56,7 @@ justify-content: space-between;
 @media ${props => props.theme.breakpoints.sm}{
   display: flex;
 	width: 100%;
-  flex-direction: column;
+  flex-direction: row;
 }
 `
 

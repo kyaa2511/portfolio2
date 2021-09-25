@@ -27,7 +27,7 @@ const Header = () =>  (
      </li>
      <li>
        <Link href="#about">
-          <NavLink>About Me</NavLink>
+          <NavLink>About</NavLink>
        </Link>  
      </li>
    </Div2>
@@ -35,7 +35,7 @@ const Header = () =>  (
      <SocialIcons href="https://github.com/kyaa2511" >
        <AiFillGithub size="3rem"/>
      </SocialIcons>
-     <SocialIcons href="https://www.linkedin.com/in/katana-yaa-143949129/" >
+     <SocialIcons href="https://www.linkedin.com/in/katana-yaa-143949129/">
        <AiFillLinkedin size="3rem"/>
      </SocialIcons>
      <SocialIcons href="https://www.facebook.com/katana.yaa.587/" >
