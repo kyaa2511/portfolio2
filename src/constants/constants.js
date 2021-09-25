@@ -3,7 +3,7 @@ export const projects = [
     title: 'mealBox',
     description: "With mealBox you can, save and share family recipes, view other's recipes, generate meal ideas, safely archive you favorites, and more!",
       image: '/images/mealBox.png',
-      tags: ['PostresSQL', 'Express', 'React', 'Node'],
+      tags: ['PostresSQL', 'Express', 'React', 'Node', 'Next.js'],
     source: 'https://wd80-blue-badge-project-client.herokuapp.com/',
     visit: 'https://github.com/oliv2915/efa-wd80-blue-badge-project-client',
     id: 0,
@@ -11,10 +11,10 @@ export const projects = [
   {
     title: 'E-Commerce',
     description: 'Coming Soon',
-    image: '/images/COMING-SOON_media_list.jpg',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    image: '/images/shoppingCart.jpg',
+    tags: ['React', 'JavaScript', 'Commerce.js', 'Material UI'],
+    source: 'https://github.com/kyaa2511/e-commerce',
+    visit: 'https://www.storeofyaa.com/',
     id: 1,
   },
   {
